@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_cancel"
+        android:icon="@drawable/ic_content_discard"
+        android:title="@string/add_cancel"
+        android:showAsAction="always" />
+    <item
+        android:id="@+id/action_accept"
+        android:icon="@drawable/ic_action_accept"
+        android:showAsAction="always"
+        android:title="filter"/>
+    <item
+        android:id="@+id/action_addSighting"
+        android:icon="@drawable/ic_action_sighting"
+        android:showAsAction="always"
+        android:title="@string/action_listView"/>
+
+</menu>
